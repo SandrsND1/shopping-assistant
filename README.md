@@ -27,7 +27,7 @@
 ### Шаги
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/твой-логин/shopping-assistant.git
+git clone https://github.com/SandrsND1/shopping-assistant.git
 
 # Перейди в папку проекта
 cd shopping-assistant
